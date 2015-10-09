@@ -18,7 +18,7 @@ int main()
     cout << 5*3 << ' ' <<10;
     cout << endl << "hello" << endl;
     cout << sin(1) << endl;
-    cout << sqr(sqr (1.5));
+    cout << sqr(sqr (1.5)) << endl;
     cout << fib (10) << endl;
     return 0;
 }
